@@ -10,7 +10,7 @@ export function Home() {
 				<img src={liamPic} alt="Picture of Liam" class="round-image" />
 			</a></div></center>
 			<h1 data-aos="fade-in">Hey! It's Liam 🌊</h1>
-			<p data-aos="fade-in">I'm a combined Biochemistry/Chemistry student at the University of British Columbia! Below are some cool thing's I've worked on or been a part of.</p>
+			<p data-aos="fade-in">I'm a combined Biochemistry/Chemistry student at the University of British Columbia, see what I've been up to below!</p>
 			<section>
 				<Resource
 					title="PLAICRAFT"
